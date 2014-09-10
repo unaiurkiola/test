@@ -1,0 +1,5 @@
+ git clone direccion
+git add direccion
+git status
+git commit -am "descripcion de los cambios"
+git push origin master
